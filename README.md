@@ -1,4 +1,4 @@
-# Movie-Recommender-System
+# Movie Recommender System
 
 ## Overview
 This project is a Movie Recommender System built using content-based filtering. The system recommends movies to users based on the features of the movies (such as genre, director, cast, etc.) and compares them with the movies the user has previously liked or watched. The data used for the recommendations is sourced from Kaggle, specifically the MovieLens dataset. This project utilizes Python and various libraries like pandas, scikit-learn, and numpy for the data processing and model building.
