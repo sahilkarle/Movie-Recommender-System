@@ -53,3 +53,7 @@ Given a movie like "The Matrix", the system will recommend other movies that are
 
 ## Streamlit Application
 https://movie-recommender-system-sahilkarale.streamlit.app/
+
+## Sample Visual
+![Screenshot 2024-12-03 233742](https://github.com/user-attachments/assets/f8141f5b-290b-454a-abe7-1d7da95a6e72)
+
